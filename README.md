@@ -1,4 +1,4 @@
-# .github# TNDS Command Center
+# TNDS Command Center
 
 **Organization:** TNDS Command Center  
 **Entity:** True North Data Strategies LLC  
