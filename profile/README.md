@@ -1,4 +1,4 @@
-# TNDS Command Center
+# Command Center
 
 > AI-Powered Operations Framework + Google Apps Script Modules for Service Businesses
 
